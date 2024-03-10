@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome to Diasyndesi
+This is where we post our source code as well as forks of open-source projects used in the development of the AI assistant. All of our repositories are open-source so feel free to fork them!
 <!--
 
 **Here are some ideas to get you started:**
